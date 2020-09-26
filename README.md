@@ -1,23 +1,17 @@
+# investigacion_achiote
+Análisis de datos en R con jupyter notebook sobre la encuesta "Conocimientos y actitudes ante el uso de achiote (Bixa orellana L.) como alternativa medicinal"
+
+## Conocimientos y actitudes ante el uso de achiote (Bixa orellana L.) como alternativa medicinal
+
 <p align="center">
- <b>Conocimientos y actitudes ante el uso de achiote (Bixa orellana L.) como alternativa medicinal</b>
-</p>
-
-
 Es de suma importancia entender su conocimiento y actitud ante el uso de achiote (Bixa orellana L.) para poder lograr establecer el valor que actualmente se le brinda a esta planta, antiguamente utilizada por la cosmovisión Maya. Por medio de una encuesta se busca incrementar el conocimiento sobre los posibles usos de la planta de interés en distintos aspectos de la vida.
 
 Actualmente, el uso de diferentes compuestos naturales ha aumentado debido a diferentes razones. Entre estas los altos costos de las medicinas y compuestos farmacéuticos, la dificultad de acceso a servicios de salud, entre otros. A su vez la medicina alternativa posee varios beneficios como los de tratamiento individualizado, la reducción de efectos secundarios, bajo costo, etc. Este estudio es importante, ya que permitirá evidenciar los niveles de conocimiento y actitudes existentes  respecto al uso de achiote como una alternativa de la medicina occidental. 
 
 Consideramos que determinar el valor del achiote en la cultura actual despierta el interés tanto de nosotros como investigadores así como el suyo. Es por esto que aquí se presentan los resultados obtenidos de una encuesta contestada por 100+ guatemaltecos.
-
-<p align="center">
-
-![achiote](img/ach.jpg)
-
 </p>
 
-
-# investigacion_achiote
-Análisis de datos en R con jupyter notebook sobre la encuesta "Conocimientos y actitudes ante el uso de achiote (Bixa orellana L.) como alternativa medicinal"
+![achiote](img/ach.jpg)
 
 ## Integrantes de investigación
 - Isabel Cordón
