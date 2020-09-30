@@ -47,32 +47,52 @@ Estudiantes de Etnobiología, Universidad del Valle de Guatemala.
 </p>
 <p align="justify">
 Lugar de Procedencia
-	<ol>
-	<li>Casco urbano</li>
-	<li>Casco rural</li>
-	</ol>
+	<ul>
+		<li>Casco urbano</li>
+		<li>Casco rural</li>
+	</ul>
 </p>
-¿En qué municipio reside?
-_______
+<p align="center">
+¿En qué municipio reside? (pregunta abierta)
+</p>
 
-Edad
-15-35 años
-36-55 años
-56-75 años
-Más de 75 años
+<p align="center">
+	Edad
+	<ul>
+		<li>15-35 años</li>
+		<li>36-55 años</li>
+		<li>56-75 años</li>
+		<li>Más de 75 años</li>
+	</ul>
+</p>
 
+<p align="center">
 4. Sexo
-Femenino	b. Masculino	c. Me identifico como:__
+	<ul>
+		<li>Femenino</li>
+		<li>Masculino</li>
+		<li>Me identifico como: (pregunta abierta)</li>
+	</ul>
+</p>
 
+<p align="center">
 5. ¿Ha utilizado usted alguna planta para tratar alguna enfermedad/afección?
-No
-Si, ¿Cuál?¿Cómo?_________
+	<ul>
+		<li>No</li>
+		<li>Si, ¿cuál?¿cómo? (pregunta abierta)</li>
+	</ul>
+</p>
 
+<p align="center">
 6. ¿Conoce usted el achiote (Bixa orellana L.)?
-Si!
-No*
-! Pasa a pregunta no. 11
-*Si su respuesta fue negativa pasa a pregunta 7
+	<ul>
+		<li>Si (!)</li>
+		<li>No (*)</li>
+	</ul>
+
+<b>! Pasa a pregunta no. 11</b>
+<b>*Si su respuesta fue negativa pasa a pregunta 7</b>
+</p>
 7. ¿Estaría usted dispuesto a conocer más sobre los usos del achiote?
 Sí**	 b. No***
 
