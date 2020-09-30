@@ -14,17 +14,11 @@ Actualmente, el uso de diferentes compuestos naturales ha aumentado debido a dif
 Consideramos que determinar el valor del achiote en la cultura actual despierta el interés tanto de nosotros como investigadores así como el suyo. Es por esto que aquí se presentan los resultados obtenidos de una encuesta contestada por 100+ guatemaltecos.
 </p>
 
-<p align="center">
-  <img src="https://github.com/PabloViana12580/investigacion_achiote/tree/master/img/ach.jpg" />
-</p>
-
-<div align="center">
 ![achiote](img/ach.jpg)
-</div>
 
 <p align="center">
-ENCUESTA
-Consentimiento informado 
+<b>ENCUESTA</b>
+<b>Consentimiento informado </b>
 </p>
 
 <p align="justify">
@@ -43,17 +37,21 @@ Cualquier información personal que sea pedida en este cuestionario es para fine
 Por favor, contestes las preguntas y envíe el cuestionario, sus respuestas serán de mucha ayuda para nosotros. Si  desea un resumen del estudio, marque la casilla correspondiente y envíe la dirección de correo electrónico en la cual desea recibirla. 
 
 Agradecemos de antemano el tiempo utilizado en contestar la encuesta. Enfatizamos la importancia que tiene usted cómo entrevistado en la elaboración de este estudio. Gracias por su colaboración.
-
+</p>
+<p align="center">
 Atentamente: 
 M. Isabel Cordón
 Belém González
 Pablo Viana
 Estudiantes de Etnobiología, Universidad del Valle de Guatemala. 
-
+</p>
+<p align="justify">
 Lugar de Procedencia
-Casco urbano
-Casco rural
-
+	<ol>
+	<li>Casco urbano</li>
+	<li>Casco rural</li>
+	</ol>
+</p>
 ¿En qué municipio reside?
 _______
 
