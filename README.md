@@ -14,6 +14,10 @@ Actualmente, el uso de diferentes compuestos naturales ha aumentado debido a dif
 Consideramos que determinar el valor del achiote en la cultura actual despierta el interés tanto de nosotros como investigadores así como el suyo. Es por esto que aquí se presentan los resultados obtenidos de una encuesta contestada por 100+ guatemaltecos.
 </p>
 
+<p align="center">
+  <img src="https://github.com/PabloViana12580/investigacion_achiote/tree/master/img/ach.jpg" />
+</p>
+
 <div align="center">
 ![achiote](img/ach.jpg)
 </div>
