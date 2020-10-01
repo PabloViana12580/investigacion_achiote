@@ -38,6 +38,7 @@ Por favor, contestes las preguntas y envíe el cuestionario, sus respuestas ser�
 
 Agradecemos de antemano el tiempo utilizado en contestar la encuesta. Enfatizamos la importancia que tiene usted cómo entrevistado en la elaboración de este estudio. Gracias por su colaboración.
 </p>
+
 <p align="center">
 Atentamente: 
 M. Isabel Cordón
@@ -45,13 +46,18 @@ Belém González
 Pablo Viana
 Estudiantes de Etnobiología, Universidad del Valle de Guatemala. 
 </p>
-<p align="justify">
+
+<p align="center">
 <b>1. Lugar de Procedencia</b>
+</p>
+
+<p align="justify">
 	<ul>
 		<li>Casco urbano</li>
 		<li>Casco rural</li>
 	</ul>
 </p>
+
 <p align="center">
 <b>2. ¿En qué municipio reside? (pregunta abierta)</b>
 </p>
@@ -84,30 +90,35 @@ Estudiantes de Etnobiología, Universidad del Valle de Guatemala.
 </p>
 
 <p align="center">
-<b>6. ¿Conoce usted el achiote (Bixa orellana L.)?</b>
-	<ul>
-		<li>Si (!)</li>
-		<li>No (*)</li>
-	</ul>
+	<b>6. ¿Conoce usted el achiote (Bixa orellana L.)?</b>
+		<ul>
+			<li>Si (!)</li>
+			<li>No (*)</li>
+		</ul>
 
-<b>! Pasa a pregunta no. 11</b>
-<b>*Si su respuesta fue negativa pasa a pregunta 7</b>
+	<b>! Pasa a pregunta no. 11</b>
+	<b>*Si su respuesta fue negativa pasa a pregunta 7</b>
 </p>
+
 <p align="center">
 	<b>7. ¿Estaría usted dispuesto a conocer más sobre los usos del achiote?</b>
 	<ul>
 		<li>Sí**</li>
 		<li>No***</li>
+	</ul>
 
-<b>**Respuesta positiva se generará un cuadro de información sobre la morfología de la planta y como está es utilizada a lo largo del tiempo.</b>
-<b>***Si la respuesta era negativa se termina la encuesta automáticamente</b>
+	<b>**Respuesta positiva se generará un cuadro de información sobre la morfología de la planta y como está es utilizada a lo largo del tiempo.</b>
+	<b>***Si la respuesta era negativa se termina la encuesta automáticamente</b>
 </p>
+
 <p align="center">
-Achiote (Bixa orellana L.)
+	<b>Achiote (Bixa orellana L.)</b>
 </p>
+
 <p align="justify">
 Conocido también como annatto u onoto, es un pigmentos natural, de coloración rojo-amarillenta utilizada en la industria alimentaria y cosmética. Sus semillas son el órgano de importancia del arbusto nativo de América tropical. Su uso se remonta a tiempos precolombinos, en donde los mayas lo utilizaban como especia y colorante para el cuerpo en ritos religiosos y lo asociaban con la lluvia. En la medicina tradicional su uso calma los ardores de las fiebres, alivia a los disentéricos y hace desaparecer tumores. Provoca la orina, apaga la sed y quita el dolor de diente. Mezclado con resina quita la sarna y úlcera, fortalece el estomago, detiene el flujo de vientre y aumenta la leche mezclada con cáscaras de cacao. Se dice que tiene propiedades afrodisíacas.
 </p>
+
 <p align="center">
 	<b>8. ¿Qué tan efectivo cree usted que son los tratamientos alternativos de achiote?</b>
 	<ul>
@@ -119,10 +130,11 @@ Conocido también como annatto u onoto, es un pigmentos natural, de coloración 
 	</ul>
 </p>
 <p align="center">
-<b>9. Por favor, explique su elección en la pregunta anterior (pregunta abierta)</b>
+	<b>9. Por favor, explique su elección en la pregunta anterior (pregunta abierta)</b>
 </p>
+
 <p align="center">
-10. He leído
+	<b>10. He leído</b>
 </p>
 
 <p align="center">
@@ -143,7 +155,9 @@ Conocido también como annatto u onoto, es un pigmentos natural, de coloración 
 		<li>Ninguno de los anteriores</li>
 		<li>Otro: (pregunta abierta)</li>
 	</ul>
+</p>
 
+<p align="center">
 <b>13. De las opciones de abajo seleccione aquellas que usted conozca como aplicaciones del achiote</b>
 	<ul>	
 		<li>Repelente de mosquitos</li>
@@ -158,7 +172,9 @@ Conocido también como annatto u onoto, es un pigmentos natural, de coloración 
 		<li>No conozco ninguna aplicación del achiote</li>
 		<li>Otro: (pregunta abierta)</li>
 	</ul>
+</p>
 
+<p align="center">
 <b>14. ¿Con qué frecuencia utiliza usted el achiote en cualquiera de sus presentaciones?</b>
 	<ul>	
 		<li>No lo utilizo</li>
@@ -167,7 +183,9 @@ Conocido también como annatto u onoto, es un pigmentos natural, de coloración 
 		<li>Semanalmente</li>
 		<li>A diario</li>
 	</ul>
+</p>
 
+<p align="center">
 <b>15.¿Cómo obtiene usted el achiote (Bixa orellana L.)?</b>
 	<ul>	
 		<li>Mercado</li>
@@ -177,13 +195,18 @@ Conocido también como annatto u onoto, es un pigmentos natural, de coloración 
 		<li>Producción propia</li>
 		<li>No obtengo achiote</li>
 		<li>Otro: (pregunta abierta)</li>
-	<ul>
+	</ul>
+</p>
+
+<p align="center">
 <b>16. ¿Está usted al tanto que es posible conseguir achiote en los centro de conveniencia bajo el apartado de especias?</b>
 	<ul>
 		<li>Si</li>
 		<li>No</li>
 	</ul>
+</p>
 
+<p align="center">
 <b>17.  Seleccione qué parte de la planta de Bixa orellana L. (achiote) se utiliza para obtener el polvo rojo comúnmente comercializado</b>
 	<ul>
 		<li>Raíz</li>
@@ -194,7 +217,9 @@ Conocido también como annatto u onoto, es un pigmentos natural, de coloración 
 		<li>Flores</li>
 		<li>No se obtiene ningún polvo rojo de esta planta</li>
 	</ul>
+</p>
 
+<p align="center">
 <b>18. ¿Conoce alguna otra planta tintórea de comida?</b>
 	<ul>
 		<li>No conozco ninguna otra planta tintórea</li>
@@ -203,13 +228,17 @@ Conocido también como annatto u onoto, es un pigmentos natural, de coloración 
 		<li>Girasol</li>
 		<li>Conozco otra/otras, ¿Cuál/Cuáles?: (pregunta abierta)</li>
 	</ul>
+</p>
 
+<p align="center">
 <b>19. ¿ Ha utilizado usted alguna planta tintórea de comida?</b>
 	<ul>
 		<li>No</li>
 		<li>Si, ¿Cuál?¿Cómo?: (pregunta abierta)</li>
 	</ul>
+</p>
 
+<p align="center">
 <b>20. ¿Qué formas de preparación conoce usted para usar el achiote como medicina?</b>
 	<ul>
 		<li>Infusión o té</li>
@@ -221,7 +250,10 @@ Conocido también como annatto u onoto, es un pigmentos natural, de coloración 
 		<li>Molida</li>
 		<li>No conozco ninguna preparación</li>
 		<li>Otra: (pregunta abierta)</li>
+	</ul>
+</p>
 
+<p align="center">
 <b>21. ¿Qué tan dispuesto está usted a utilizar el achiote como sustituto de la medicina occidental?</b>
 	<ul>
 		<li>Promuevo el uso del achiote como alternativa</li>
@@ -230,9 +262,13 @@ Conocido también como annatto u onoto, es un pigmentos natural, de coloración 
 		<li>Lo utilizaría como último recurso</li>
 		<li>No lo utilizaría)</li>
 	</ul>
+</p>
 
-<b>22. Por favor, explique su elección en la pregunta anterior: (pregunta abierta)</b>
+<p align="center">
+	<b>22. Por favor, explique su elección en la pregunta anterior: (pregunta abierta)</b>
+</p>
 
+<p align="center">
 <b>23. Seleccione las maneras en las cuáles estaría usted de acuerdo en administrar medicamento fabricado con achiote</b>
 	<ul>
 		<li>Oral</li>
@@ -245,7 +281,9 @@ Conocido también como annatto u onoto, es un pigmentos natural, de coloración 
 		<li>En cápsulas</li>
 		<li>Otra: (pregunta abierta)</li>
 	</ul>
+</p>
 
+<p align="center">
 <b>24. ¿Qué tan efectivo cree usted que son los tratamientos alternativos de achiote?</b>
 	<ul>
 		<li>No produce ningún efecto</li>
@@ -254,11 +292,11 @@ Conocido también como annatto u onoto, es un pigmentos natural, de coloración 
 		<li>Efecto notable</li>
 		<li>Efectos significativo</li>
 	</ul>
-
-<b>25.  Por favor, explique su elección en la pregunta anterior: (pregunta abierta)</b>
-
--FINAL-
 </p>
+
+<p align="center">
+<b>25.  Por favor, explique su elección en la pregunta anterior: (pregunta abierta)</b>
+-FINAL-
 </p>
 
 ## investigacion_achiote
