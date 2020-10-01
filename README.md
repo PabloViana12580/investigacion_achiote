@@ -296,7 +296,6 @@ Conocido también como annatto u onoto, es un pigmentos natural, de coloración 
 
 <p align="center">
 <b>25.  Por favor, explique su elección en la pregunta anterior: (pregunta abierta)</b>
--FINAL-
 </p>
 
 <p align="center">
