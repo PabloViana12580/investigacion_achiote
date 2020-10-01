@@ -2,8 +2,6 @@
  <b>Conocimientos y actitudes ante el uso de achiote (Bixa orellana L.) como alternativa medicinal</b>
 </p>
 
-![achiote](img/ach.jpg)
-
 <p align="center">
 <b>ENCUESTA</b>
 </p>
@@ -33,6 +31,8 @@ Belém González
 Pablo Viana
 Estudiantes de Etnobiología, Universidad del Valle de Guatemala. 
 </p>
+
+![achiote](img/ach.jpg)
 
 <p align="center">
 <b>1. Lugar de Procedencia</b>
