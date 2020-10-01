@@ -46,18 +46,18 @@ Pablo Viana
 Estudiantes de Etnobiología, Universidad del Valle de Guatemala. 
 </p>
 <p align="justify">
-Lugar de Procedencia
+<b>1. Lugar de Procedencia</b>
 	<ul>
 		<li>Casco urbano</li>
 		<li>Casco rural</li>
 	</ul>
 </p>
 <p align="center">
-¿En qué municipio reside? (pregunta abierta)
+<b>2. ¿En qué municipio reside? (pregunta abierta)</b>
 </p>
 
 <p align="center">
-	Edad
+	<b>3. Edad</b>
 	<ul>
 		<li>15-35 años</li>
 		<li>36-55 años</li>
@@ -67,7 +67,7 @@ Lugar de Procedencia
 </p>
 
 <p align="center">
-4. Sexo
+	<b>4. Sexo</b>
 	<ul>
 		<li>Femenino</li>
 		<li>Masculino</li>
@@ -76,7 +76,7 @@ Lugar de Procedencia
 </p>
 
 <p align="center">
-5. ¿Ha utilizado usted alguna planta para tratar alguna enfermedad/afección?
+<b>5. ¿Ha utilizado usted alguna planta para tratar alguna enfermedad/afección?</b>
 	<ul>
 		<li>No</li>
 		<li>Si, ¿cuál?¿cómo? (pregunta abierta)</li>
@@ -84,7 +84,7 @@ Lugar de Procedencia
 </p>
 
 <p align="center">
-6. ¿Conoce usted el achiote (Bixa orellana L.)?
+<b>6. ¿Conoce usted el achiote (Bixa orellana L.)?</b>
 	<ul>
 		<li>Si (!)</li>
 		<li>No (*)</li>
@@ -93,120 +93,172 @@ Lugar de Procedencia
 <b>! Pasa a pregunta no. 11</b>
 <b>*Si su respuesta fue negativa pasa a pregunta 7</b>
 </p>
-7. ¿Estaría usted dispuesto a conocer más sobre los usos del achiote?
-Sí**	 b. No***
+<p align="center">
+	<b>7. ¿Estaría usted dispuesto a conocer más sobre los usos del achiote?</b>
+	<ul>
+		<li>Sí**</li>
+		<li>No***</li>
 
-**Respuesta positiva se generará un cuadro de información sobre la morfología de la planta y como está es utilizada a lo largo del tiempo. 
+<b>**Respuesta positiva se generará un cuadro de información sobre la morfología de la planta y como está es utilizada a lo largo del tiempo.</b>
+<b>***Si la respuesta era negativa se termina la encuesta automáticamente</b>
+</p>
+<p align="center">
 Achiote (Bixa orellana L.)
+</p>
+<p align="justify">
 Conocido también como annatto u onoto, es un pigmentos natural, de coloración rojo-amarillenta utilizada en la industria alimentaria y cosmética. Sus semillas son el órgano de importancia del arbusto nativo de América tropical. Su uso se remonta a tiempos precolombinos, en donde los mayas lo utilizaban como especia y colorante para el cuerpo en ritos religiosos y lo asociaban con la lluvia. En la medicina tradicional su uso calma los ardores de las fiebres, alivia a los disentéricos y hace desaparecer tumores. Provoca la orina, apaga la sed y quita el dolor de diente. Mezclado con resina quita la sarna y úlcera, fortalece el estomago, detiene el flujo de vientre y aumenta la leche mezclada con cáscaras de cacao. Se dice que tiene propiedades afrodisíacas.
-8. ¿Qué tan efectivo cree usted que son los tratamientos alternativos de achiote?
-Escala valorativa: (No produce ningún efecto: El efecto no es notable: Levemente efectivo; Efecto notable; Efecto significativo)
-9. Por favor, explique su elección en la pregunta anterior:
-_____________________________
-
+</p>
+<p align="center">
+	<b>8. ¿Qué tan efectivo cree usted que son los tratamientos alternativos de achiote?</b>
+	<ul>
+		<li>No produce ningún efecto</li>
+		<li>El efecto no es notable</li>
+		<li>Levemente efectivo</li>
+		<li>Efecto notable</li>
+		<li>Efecto significativo</li>
+	</ul>
+</p>
+<p align="center">
+<b>9. Por favor, explique su elección en la pregunta anterior (pregunta abierta)</b>
+</p>
+<p align="center">
 10. He leído
-Sí
+</p>
 
-11. ¿Conoce usted otro nombre para el achiote?
-No
-Sí, especifique:_____________
+<p align="center">
+	<b>11. ¿Conoce usted otro nombre para el achiote?</b>
+	<ul>
+		<li>No</li>
+		<li>Sí, especifique: (pregunta abierta)</li>
+	</ul>
+</p>
 
-12. ¿ Qué usos ha oído usted del achiote? ¿Cuáles usos le ha dado usted al achiote?
-Tinte
-Culinario
-Medicinal
-Cosmético
-Ninguno de los anteriores
-Otro:_____
+<p align="center">
+<b>12. ¿ Qué usos ha oído usted del achiote? ¿Cuáles usos le ha dado usted al achiote?</b>
+	<ul>
+		<li>Tinte</li>
+		<li>Culinario</li>
+		<li>Medicinal</li>
+		<li>Cosmético</li>
+		<li>Ninguno de los anteriores</li>
+		<li>Otro: (pregunta abierta)</li>
+	</ul>
 
-13. De las opciones de abajo seleccione aquellas que usted conozca como aplicaciones del achiote
-Repelente de mosquitos
-Protector solar
-Alivio para la diarrea
-Tinta para textiles
-Colorante pintalabios
-Colorante de comidas y bebidas
-Alivio de la Fiebre
-Quita el dolor en los dientes
-Aumenta el flujo de leche materna
-No conozco ninguna aplicación del achiote
-Otro: __________
+<b>13. De las opciones de abajo seleccione aquellas que usted conozca como aplicaciones del achiote</b>
+	<ul>	
+		<li>Repelente de mosquitos</li>
+		<li>Protector solar</li>
+		<li>Alivio para la diarrea</li>
+		<li>Tinta para textiles</li>
+		<li>Colorante pintalabios</li>
+		<li>Colorante de comidas y bebidas</li>
+		<li>Alivio de la Fiebre</li>
+		<li>Quita el dolor en los dientes</li>
+		<li>Aumenta el flujo de leche materna</li>
+		<li>No conozco ninguna aplicación del achiote</li>
+		<li>Otro: (pregunta abierta)</li>
+	</ul>
 
-14. ¿Con qué frecuencia utiliza usted el achiote en cualquiera de sus presentaciones?
-No lo utilizo
-Una vez cada seis meses
-Mensualmente
-Semanalmente
-A diario
+<b>14. ¿Con qué frecuencia utiliza usted el achiote en cualquiera de sus presentaciones?</b>
+	<ul>	
+		<li>No lo utilizo</li>
+		<li>Una vez cada seis meses</li>
+		<li>Mensualmente</li>
+		<li>Semanalmente</li>
+		<li>A diario</li>
+	</ul>
 
-15.¿Cómo obtiene usted el achiote (Bixa orellana L.)?
-Mercado
-Supermercado
-Tienda de conveniencia
-Distribuidos personal
-Producción propia
-No obtengo achiote
-Otro:_________
+<b>15.¿Cómo obtiene usted el achiote (Bixa orellana L.)?</b>
+	<ul>	
+		<li>Mercado</li>
+		<li>Supermercado</li>
+		<li>Tienda de conveniencia</li>
+		<li>Distribuidos personal</li>
+		<li>Producción propia</li>
+		<li>No obtengo achiote</li>
+		<li>Otro: (pregunta abierta)</li>
+	<ul>
+<b>16. ¿Está usted al tanto que es posible conseguir achiote en los centro de conveniencia bajo el apartado de especias?</b>
+	<ul>
+		<li>Si</li>
+		<li>No</li>
+	</ul>
 
-16. ¿Está usted al tanto que es posible conseguir achiote en los centro de conveniencia bajo el apartado de especias?
-Si 
-No
+<b>17.  Seleccione qué parte de la planta de Bixa orellana L. (achiote) se utiliza para obtener el polvo rojo comúnmente comercializado</b>
+	<ul>
+		<li>Raíz</li>
+		<li>Tallo</li>
+		<li>Hojas</li>
+		<li>Fruto</li>
+		<li>Semillas</li>
+		<li>Flores</li>
+		<li>No se obtiene ningún polvo rojo de esta planta</li>
+	</ul>
 
-17.  Seleccione qué parte de la planta de Bixa orellana L. (achiote) se utiliza para obtener el polvo rojo comúnmente comercializado
-Raíz
-Tallo
-Hojas
-Fruto
-Semillas
-Flores
-No se obtiene ningún polvo rojo de esta planta
+<b>18. ¿Conoce alguna otra planta tintórea de comida?</b>
+	<ul>
+		<li>No conozco ninguna otra planta tintórea</li>
+		<li>Remolacha</li>
+		<li>Azafrán</li>
+		<li>Girasol</li>
+		<li>Conozco otra/otras, ¿Cuál/Cuáles?: (pregunta abierta)</li>
+	</ul>
 
-18. ¿Conoce alguna otra planta tintórea de comida?
-No conozco ninguna otra planta tintórea
-Remolacha
-Azafrán
-Girasol
-Conozco otra/otras, ¿Cuál/Cuáles?:_______
+<b>19. ¿ Ha utilizado usted alguna planta tintórea de comida?</b>
+	<ul>
+		<li>No</li>
+		<li>Si, ¿Cuál?¿Cómo?: (pregunta abierta)</li>
+	</ul>
 
-19. ¿ Ha utilizado usted alguna planta tintórea de comida?
-No
-Si, ¿Cuál?¿Cómo?:________
+<b>20. ¿Qué formas de preparación conoce usted para usar el achiote como medicina?</b>
+	<ul>
+		<li>Infusión o té</li>
+		<li>Hervida</li>
+		<li>Frotada</li>
+		<li>Machacada</li>
+		<li>En jugo</li>
+		<li>Masticada</li>
+		<li>Molida</li>
+		<li>No conozco ninguna preparación</li>
+		<li>Otra: (pregunta abierta)</li>
 
-20. ¿Qué formas de preparación conoce usted para usar el achiote como medicina?
-Infusión o té
-Hervida
-Frotada
-Machacada
-En jugo
-Masticada
-Molida
-No conozco ninguna preparación
-Otra:______
+<b>21. ¿Qué tan dispuesto está usted a utilizar el achiote como sustituto de la medicina occidental?</b>
+	<ul>
+		<li>Promuevo el uso del achiote como alternativa</li>
+		<li>Totalmente de acuerdo en utilizarlo</li>
+		<li>Lo utilizaría</li>
+		<li>Lo utilizaría como último recurso</li>
+		<li>No lo utilizaría)</li>
+	</ul>
 
-21. ¿Qué tan dispuesto está usted a utilizar el achiote como sustituto de la medicina occidental?
-Escala (Promuevo el uso del achiote como alternativa; Totalmente de acuerdo en utilizarlo; Lo utilizaría; Lo utilizaría como último recurso; No lo utilizaría)
+<b>22. Por favor, explique su elección en la pregunta anterior: (pregunta abierta)</b>
 
-22. Por favor, explique su elección en la pregunta anterior:
-_____________________________
+<b>23. Seleccione las maneras en las cuáles estaría usted de acuerdo en administrar medicamento fabricado con achiote</b>
+	<ul>
+		<li>Oral</li>
+		<li>Aplicación local</li>
+		<li>Lavados</li>
+		<li>Aplicación en baños</li>
+		<li>Aplicación nasal</li>
+		<li>No estoy de acuerdo con ninguna de las maneras anteriores</li>
+		<li>En infusión</li>
+		<li>En cápsulas</li>
+		<li>Otra: (pregunta abierta)</li>
+	</ul>
 
-23. Seleccione las maneras en las cuáles estaría usted de acuerdo en administrar medicamento fabricado con achiote
-Oral
-Aplicación local
-Lavados
-Aplicación en baños
-Aplicación nasal
-No estoy de acuerdo con ninguna de las maneras anteriores
-En infusión
-En cápsulas
-Otra:______
+<b>24. ¿Qué tan efectivo cree usted que son los tratamientos alternativos de achiote?</b>
+	<ul>
+		<li>No produce ningún efecto</li>
+		<li>El efecto no es notable</li>
+		<li>Levemente efectivo</li>
+		<li>Efecto notable</li>
+		<li>Efectos significativo</li>
+	</ul>
 
-24. ¿Qué tan efectivo cree usted que son los tratamientos alternativos de achiote?
-Escala valorativa: (No produce ningún efecto: El efecto no es notable: Levemente efectivo; Efecto notable; Efectos significativo)
-
-25.  Por favor, explique su elección en la pregunta anterior:
-_____________________________
+<b>25.  Por favor, explique su elección en la pregunta anterior: (pregunta abierta)</b>
 
 -FINAL-
+</p>
 </p>
 
 ## investigacion_achiote
