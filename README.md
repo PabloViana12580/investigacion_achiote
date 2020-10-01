@@ -96,8 +96,8 @@ Estudiantes de Etnobiología, Universidad del Valle de Guatemala.
 			<li>No (*)</li>
 		</ul>
 
-	<b>! Pasa a pregunta no. 11</b>
-	<b>*Si su respuesta fue negativa pasa a pregunta 7</b>
+	! Pasa a pregunta no. 11
+	*Si su respuesta fue negativa pasa a pregunta 7
 </p>
 
 <p align="center">
@@ -107,8 +107,8 @@ Estudiantes de Etnobiología, Universidad del Valle de Guatemala.
 		<li>No***</li>
 	</ul>
 
-	<b>**Respuesta positiva se generará un cuadro de información sobre la morfología de la planta y como está es utilizada a lo largo del tiempo.</b>
-	<b>***Si la respuesta era negativa se termina la encuesta automáticamente</b>
+	**Respuesta positiva se generará un cuadro de información sobre la morfología de la planta y como está es utilizada a lo largo del tiempo.
+	***Si la respuesta era negativa se termina la encuesta automáticamente
 </p>
 
 <p align="center">
@@ -296,6 +296,10 @@ Conocido también como annatto u onoto, es un pigmentos natural, de coloración 
 
 <p align="center">
 <b>25.  Por favor, explique su elección en la pregunta anterior: (pregunta abierta)</b>
+-FINAL-
+</p>
+
+<p align="center">
 -FINAL-
 </p>
 
